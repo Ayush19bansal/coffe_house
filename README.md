@@ -4,13 +4,20 @@
 ![image](https://github.com/Ayush19bansal/coffe_house/assets/118842033/59684295-5b3d-4172-bb59-d2a97a139157)
 ![image](https://github.com/Ayush19bansal/coffe_house/assets/118842033/4780c837-694f-4f0f-aa43-c26042b9cc80)
 1.Used one nav tag for the search bar and background to that.
+
 2.Styled the Input tag and nav tag using background color and linear gradient and box-shadow and some of the properties like:
 -padding,margin,width etc.
+
 3.created 3 sections menu and two sections with class as Info.
+
 4.Added style to the sections.
+
 5.In menu section added 4 images and wrapped each image into two divs.
+
 6.Used display as flex for menu section and the div inside it.
+
 7.Added padding,Margin and other peroperties as well.
+
 8.Added hover effect to the image.
 
 # css
